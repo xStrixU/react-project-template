@@ -1,8 +1,9 @@
 {
   "name": "react-project-template",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "ReactJS project template",
   "author": "Kacper Polak <strixu155@gmail.com>",
+  "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
